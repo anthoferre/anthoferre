@@ -1,6 +1,6 @@
-## Bonjour 👋, je suis Anthony
+## Bonjour 👋, moi c'est Anthony
 
-Je suis un **scientifique des données passionné** par l'extraction d'insights significatifs à partir de données complexes. Mon objectif est de construire des solutions basées sur les données qui résolvent des problèmes concrets. Actuellement, je me concentre sur l'apprentissage automatique et la vision par ordinateur.
+Je suis un **data scientist passionné** par l'extraction d'insights significatifs à partir de données complexes. Mon objectif est la réalisation de projets en Intelligence Artificielle répondant à des besoins spécifiques, allant de l'analyse des données au déploiement de modèle de Machine Learning.
 
 ---
 ### 💻 Technologies & Outils
@@ -10,10 +10,13 @@ Je suis un **scientifique des données passionné** par l'extraction d'insights 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 ### 🚀 Mes Projets Récents
 
