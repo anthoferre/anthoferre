@@ -1,6 +1,6 @@
 ## Bonjour 👋, moi c'est Anthony
 
-Je suis un **data scientist passionné** par l'extraction d'insights significatifs à partir de données complexes. Mon objectif est la réalisation de projets en Intelligence Artificielle répondant à des besoins spécifiques, allant de l'analyse des données au déploiement de modèle de Machine Learning.
+Je suis un **data scientist passionné** par l'extraction d'insights significatifs à partir de données complexes. Mon objectif est la réalisation de projets en Intelligence Artificielle répondant à des besoins spécifiques, allant de l'analyse des données au déploiement de modèle de Machine Learning / Deep Learning.
 
 ---
 ### 💻 Technologies & Outils
@@ -10,20 +10,20 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 ### 🚀 Mes Projets Récents
 
--   **[Analyse des sentiments sur des avis clients](https://github.com/votre_nom_utilisateur/nom_du_repo_1)**
-    * Projet NLP utilisant `BERT` pour classifier les sentiments d'avis produits et identifier les points clés d'amélioration. (Python, PyTorch, Transformers)
--   **[Prédiction de la demande énergétique](https://github.com/votre_nom_utilisateur/nom_du_repo_2)**
-    * Modèle de séries temporelles (`ARIMA`, `Prophet`) pour prévoir la consommation électrique, aidant à optimiser la gestion des ressources. (Python, Pandas, Sklearn)
--   **[Détection d'objets en temps réel](https://github.com/votre_nom_utilisateur/nom_du_repo_3)**
-    * Application de vision par ordinateur avec `YOLOv5` pour identifier et localiser des objets spécifiques dans des flux vidéo. (Python, OpenCV, PyTorch)
+-   **[Analyse des tirs en NBA](https://github.com/votre_nom_utilisateur/nom_du_repo_1)**
+    * Comparer les tirs (fréquence et efficacité au tir par situation de jeu et par localisation sur le terrain) sous forme de cartographie terrain. Estimer la probabilité qu’a un tir de rentrer en fonction de nombreuses métriques (distance au panier, zone, type de tir etc). (XGBoost, SHAP, Streamlit)
+-   **[Elaborer un système de recommandation de films type Netflix](https://github.com/votre_nom_utilisateur/nom_du_repo_2)**
+    * Librairie Surprise, Nearest Neighbors, FastAPI, Docker, PyTest
+-   **[Détection de CHURN en télécommunication](https://github.com/votre_nom_utilisateur/nom_du_repo_3)**
+    * 
 
- ---
 ### 📫 Contact
 
 N'hésitez pas à me contacter !
