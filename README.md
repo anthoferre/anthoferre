@@ -24,6 +24,7 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
 -   **[Elaborer un système de recommandation de films type Netflix](https://github.com/anthoferre/mai23_continu_mlops_recommandation_films)**
     * Librairie Surprise, Nearest Neighbors, FastAPI, Docker, PyTest
 -   **[Détection de CHURN en télécommunication](https://github.com/anthoferre/telco_customer_churn)**
+    * FastAPI, Streamlit, Recall-Score : 0.91
 
 ### 📫 Contact
 
