@@ -20,7 +20,9 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
 ### 🚀 Mes Projets Récents
 
 -   **[Détection de CHURN en télécommunication](https://github.com/anthoferre/telco_customer_churn)**
-    * FastAPI, Streamlit, Recall-Score : 0.91
+    * Ce projet propose une solution complète pour identifier de manière proactive les clients à risque de désabonnement (churn) dans le secteur des télécommunications, permettant aux entreprises de mettre en place des stratégies de rétention ciblées et efficaces.
+    * Outils utilisés : FastAPI, Streamlit, Docker, GitHubActions
+    * Résultats : Notre modèle de machine learning atteint un score de Rappel (Recall-Score) de 0.91. Il est donc capable d'identifier 91% des clients qui sont à risque important de résilier leur abonnement. Si des actions sont mises en place, alors cela peut faire de grandes économies pour l'entreprise.
 -   **[Analyse des tirs en NBA](https://github.com/anthoferre/MSPy-NBA)**
     * Comparer les tirs (fréquence et efficacité au tir par situation de jeu et par localisation sur le terrain) sous forme de cartographie terrain. Estimer la probabilité qu’a un tir de rentrer en fonction de nombreuses métriques (distance au panier, zone, type de tir etc). (XGBoost, SHAP, Streamlit)
 -   **[Elaborer un système de recommandation de films type Netflix](https://github.com/anthoferre/mai23_continu_mlops_recommandation_films)**
