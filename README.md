@@ -19,6 +19,15 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
 
 ### 🚀 Mes Projets Récents
 
+-   **[ML Pipeline Helper](https://appbasic-axbj3dfqogijuw9ggp3txs.streamlit.app/)**
+    * Ce projet propose un outil privé et réutilisable pour automatiser et standardiser l'ensemble du pipeline Data/ML (ingestion, nettoyage, dataviz, feature engineering, entraînement, prédiction, interprétabilité).
+    * Outils utilisés : Python, Streamlit Cloud, SQLite
+    * Résultats : Cet outil apporte un gain de temps considérable pour une visualisation rapide des données et la mise en place de modèles d'IA performants.
+ 
+-   **[Analyse et Modélisation de Performances Sportives avec Strava]()**
+    * Ce projet mêlant données et passion pour le sport permet l'analyse de la performance sportive via les données récoltées par l'API de Strava. Elle permet également la détection d'indicateur clé de la performance et la prédiction de temps de course.
+    * Outils utilisés : Python, Streamlit, SQLite
+
 -   **[Détection de CHURN en télécommunication](https://github.com/anthoferre/telco_customer_churn)**
     * Ce projet propose une solution complète pour identifier de manière proactive les clients à risque de désabonnement (churn) dans le secteur des télécommunications, permettant aux entreprises de mettre en place des stratégies de rétention ciblées et efficaces.
     * Outils utilisés : FastAPI, Streamlit, Docker, GitHubActions
