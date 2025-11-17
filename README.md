@@ -24,7 +24,7 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
     * Outils utilisés : Python, Streamlit Cloud, SQLite
     * Résultats : Cet outil apporte un gain de temps considérable pour une visualisation rapide des données et la mise en place de modèles d'IA performants.
  
--   **[Analyse et Modélisation de Performances Sportives avec Strava]()**
+-   **[Analyse et Modélisation de Performances Sportives avec Strava](https://github.com/anthoferre/Strava_data)**
     * Ce projet mêlant données et passion pour le sport permet l'analyse de la performance sportive via les données récoltées par l'API de Strava. Elle permet également la détection d'indicateur clé de la performance et la prédiction de temps de course.
     * Outils utilisés : Python, Streamlit, SQLite
 
