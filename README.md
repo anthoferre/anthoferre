@@ -24,6 +24,11 @@ Je suis un **data scientist passionné** par l'extraction d'insights significati
     * Outils utilisés : Python, Streamlit Cloud, SQLite
     * Résultats : Cet outil apporte un gain de temps considérable pour une visualisation rapide des données et la mise en place de modèles d'IA performants.
  
+-   **[Trading Prediction](https://github.com/anthoferre/Trading.git)**
+    * Ce projet propose un système de prédiction de trading. IL utilise l'XGBoost pour prédire les signaux (Achat/Vente) après un entraînement rigoureux par Walk-Forward Validation (WFV). Pipeline industrialisée avec MLflow et Docker.
+    * Outils utilisés : Python, FastAPI, Docker, PyTest, MLFlow
+    * Résultats : Cet outil permet à un trader d'avoir en temps réel une prédiction sur la plus récente bougie. (Achat, Vente ou Ne Rien Faire)
+ 
 -   **[Analyse et Modélisation de Performances Sportives avec Strava](https://github.com/anthoferre/Strava_data)**
     * Ce projet mêlant données et passion pour le sport permet l'analyse de la performance sportive via les données récoltées par l'API de Strava. Elle permet également la détection d'indicateur clé de la performance et la prédiction de temps de course.
     * Outils utilisés : Python, Streamlit, SQLite
