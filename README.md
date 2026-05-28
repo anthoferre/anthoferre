@@ -48,7 +48,7 @@ Toujours en quête d'optimisation, je transforme des problématiques métier com
 
 ### 📫 Contact & Opportunités
 
-*   **CV :** [Télécharger mon CV (PDF)](lien_vers_ton_cv_hebergé_ou_drive)
+*   **CV :** [Télécharger mon CV (PDF)](https://github.com/anthoferre/anthoferre/blob/main/CV%20DS.pdf)
 *   **LinkedIn :** [Anthony FERRE](https://www.linkedin.com/in/anthony-ferre-6bb5b7172/)
 *   **Email :** anthonyferre35770@gmail.com
 
