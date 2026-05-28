@@ -1,51 +1,49 @@
 ## Bonjour 👋, moi c'est Anthony
 
-Je suis un **data scientist passionné** par l'extraction d'insights significatifs à partir de données complexes. Mon objectif est la réalisation de projets en Intelligence Artificielle répondant à des besoins spécifiques, allant de l'analyse des données au déploiement de modèle de Machine Learning / Deep Learning.
+Data Scientist Junior passionné par l'industrialisation MLOps et la création de solutions IA à forte valeur ajoutée. Mon approche repose sur une maîtrise complète du cycle de vie de la donnée : de l'exploration analytique à la mise en production de modèles robustes et industrialisés.
+
+Toujours en quête d'optimisation, je transforme des problématiques métier complexes en outils Data fiables et scalables.
+
+📍 Basé à Rennes, France | 🚀 Ouvert aux opportunités en Data Science & MLOps
 
 ---
-### 💻 Technologies & Outils
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
-
-
-### 🚀 Mes Projets Récents
-
--   **[ML Pipeline Helper](https://appbasic-axbj3dfqogijuw9ggp3txs.streamlit.app/)**
-    * Ce projet propose un outil privé et réutilisable pour automatiser et standardiser l'ensemble du pipeline Data/ML (ingestion, nettoyage, dataviz, feature engineering, entraînement, prédiction, interprétabilité).
-    * Outils utilisés : Python, Streamlit Cloud, SQLite
-    * Résultats : Cet outil apporte un gain de temps considérable pour une visualisation rapide des données et la mise en place de modèles d'IA performants.
- 
--   **[Trading Prediction](https://github.com/anthoferre/Trading.git)**
-    * Ce projet propose un système de prédiction de trading. IL utilise l'XGBoost pour prédire les signaux (Achat/Vente) après un entraînement rigoureux par Walk-Forward Validation (WFV). Pipeline industrialisée avec MLflow et Docker.
-    * Outils utilisés : Python, FastAPI, Docker, PyTest, MLFlow
-    * Résultats : Cet outil permet à un trader d'avoir en temps réel une prédiction sur la plus récente bougie. (Achat, Vente ou Ne Rien Faire)
- 
--   **[Analyse et Modélisation de Performances Sportives avec Strava](https://stravadata-anthoferre.streamlit.app/)**
-    * Ce projet mêlant données et passion pour le sport permet l'analyse de la performance sportive via les données récoltées par l'API de Strava. Elle permet également la détection d'indicateur clé de la performance et la prédiction de temps de course.
-    * Outils utilisés : Python, Streamlit, SQLite
+### 🚀 Mes Principaux Projets
 
 -   **[Détection de CHURN en télécommunication](https://github.com/anthoferre/telco_customer_churn)**
-    * Ce projet propose une solution complète pour identifier de manière proactive les clients à risque de désabonnement (churn) dans le secteur des télécommunications, permettant aux entreprises de mettre en place des stratégies de rétention ciblées et efficaces.
-    * Outils utilisés : FastAPI, Streamlit, Docker, GitHubActions
-    * Résultats : Notre modèle de machine learning atteint un score de Rappel (Recall-Score) de 0.91. Il est donc capable d'identifier 91% des clients qui sont à risque important de résilier leur abonnement. Si des actions sont mises en place, alors cela peut faire de grandes économies pour l'entreprise.
--   **[Analyse des tirs en NBA](https://github.com/anthoferre/MSPy-NBA)**
-    * Comparer les tirs (fréquence et efficacité au tir par situation de jeu et par localisation sur le terrain) sous forme de cartographie terrain. Estimer la probabilité qu’a un tir de rentrer en fonction de nombreuses métriques (distance au panier, zone, type de tir etc). (XGBoost, SHAP, Streamlit)
--   **[Elaborer un système de recommandation de films type Netflix](https://github.com/anthoferre/mai23_continu_mlops_recommandation_films)**
-    * Librairie Surprise, Nearest Neighbors, FastAPI, Docker, PyTest
+    * Situation : Besoins critiques des opérateurs télécom de réduire le taux de résiliation client.
+    * Tâche : Concevoir une solution proactive pour identifier les clients à risque.
+    * Action : Industrialisation d'un modèle de classification avec FastAPI, Docker et déploiement CI/CD via GitHub Actions.
+    * Résultat : Recall-Score de 0.91, permettant des actions de rétention ciblées à fort impact financier.  
 
+ -  **[Système de recommandation de films](https://github.com/anthoferre/mai23_continu_mlops_recommandation_films)**
+    * Situation : Besoin de personnaliser l'expérience utilisateur via des recommandations pertinentes.
+    * Tâche : Développer un système de recommandation scalable type Netflix.
+    * Action : Architecture hybride (Surprise, KNN) industrialisée avec FastAPI, testée via PyTest et packagée sous Docker.
+    * Résultat : Mise en production d'un microservice robuste et prêt pour la scalabilité.  
 
-### 📫 Contact
+-   **[Analyse et cartographie des tirs en NBA](https://github.com/anthoferre/MSPy-NBA)**
+    * Situation : Besoin d'analyser la pertinence stratégique des tirs adverses.
+    * Tâche : Modéliser la probabilité de réussite des tirs et créer un outil d'aide à la décision.
+    * Action : Modélisation XGBoost, interprétabilité des features avec SHAP, et dashboarding dynamique sous Streamlit.
+    * Résultat : Storytelling Data permettant une lecture fine et stratégique des zones de danger sur le terrain.  
 
-N'hésitez pas à me contacter !
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-ferre-6bb5b7172/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyferre35770@gmail.com)
+### 🛠️ Stack Technique
+
+*   **Langages & Data :** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+*   **Machine Learning :** ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat&logo=xgboost&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+*   **MLOps & Industrialisation :** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+*   **Cloud & Déploiement :** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+*   **Environnement & Outils :** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
+---
+
+### 📫 Contact & Opportunités
+
+*   **CV :** [Télécharger mon CV (PDF)](lien_vers_ton_cv_hebergé_ou_drive)
+*   **LinkedIn :** [Anthony FERRE](https://www.linkedin.com/in/anthony-ferre-6bb5b7172/)
+*   **Email :** anthonyferre35770@gmail.com
+
+*Je suis actuellement à l'écoute d'opportunités en tant que **Data Scientist Junior** (Rennes ou Remote). N'hésitez pas à me contacter pour échanger sur mes projets ou sur une future collaboration !*
