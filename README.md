@@ -28,6 +28,12 @@ Toujours en quête d'optimisation, je transforme des problématiques métier com
     * Action : Modélisation XGBoost, interprétabilité des features avec SHAP, et dashboarding dynamique sous Streamlit.
     * Résultat : Storytelling Data permettant une lecture fine et stratégique des zones de danger sur le terrain.  
 
+### 📂 Autres Projets & Veille Technique
+
+*   **[ML Pipeline Helper](https://appbasic-axbj3dfqogijuw9ggp3txs.streamlit.app/)** : Outil privé et réutilisable pour automatiser et standardiser le pipeline Data/ML (ingestion, nettoyage, dataviz, feature engineering).
+*   **[Analyse Strava](https://stravadata-anthoferre.streamlit.app/)** : Analyse de performance sportive et prédiction de temps de course via l'API Strava et SQLite.
+*   **[Projets de veille & expérimentations](https://github.com/anthoferre)** : Retrouvez l'ensemble de mes autres travaux, notebooks de veille technique et expérimentations MLOps sur mon profil.
+  
 ---
 
 ### 🛠️ Stack Technique
